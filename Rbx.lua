@@ -27,7 +27,7 @@ local SupportedGames = { -- mm
     [137626413669175] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/KnOO3",
     [116479409623658] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/KnOO3",
     [138352221662770] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/KnOO3",
-    [120731410233153] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/KnOO3",
+    [120731410233153] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Ag008",
     [13076380114] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Hd0O98",
     [15269951959] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Ld0279"
 }
