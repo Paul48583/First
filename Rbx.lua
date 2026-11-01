@@ -18,6 +18,7 @@ local HubName = "Solstice Hub"
 local SupportedGames = { -- mm
     [286090429] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Al018",
     [74729868188364] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/FgO689",
+    [97617452700163] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/As02483669",
     [110730550789828] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/TeO05",
     [142823291] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Mr1938",
     [113506071094099] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Sp836O",
