@@ -20,6 +20,7 @@ local SupportedGames = { -- mm
     [74729868188364] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/FgO689",
     [97617452700163] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/As02483669",
     [110730550789828] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/TeO05",
+    [107535308163741] = "https://flowauth.net/v1/loaders/7582aca68c7863272ea5fd1d2183069c.lua",
     [142823291] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Mr1938",
     [113506071094099] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Sp836O",
     [93853815957083] = "https://raw.githubusercontent.com/Paul48583/First/refs/heads/main/Sp836O",
